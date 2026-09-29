@@ -18,7 +18,7 @@ A school management system with built-in authentication. It is used to handle ac
 ## Once Running
 Endpoints are viewable from your local machine at https://localhost:port/swagger
 
-Refer to the [documentation](Bellbloom%20API%20Reference.md) for how to sign up, log in, and authorize in Swagger.
+Refer to the [documentation](API%20Reference.md) for how to sign up, log in, and authorize in Swagger.
 
 
 ## Troubleshooting
