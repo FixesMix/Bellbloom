@@ -1,3 +1,8 @@
+![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/Auth-JWT-black?logo=jsonwebtokens)
+![EF Core](https://img.shields.io/badge/EF%20Core-ORM-512BD4)
+
 # Bellbloom
 A school management system with built-in authentication. It is used to handle academic data conveniently for both students and teachers.  
 
@@ -37,11 +42,4 @@ Refer to the [documentation](API%20Reference.md) for how to sign up, log in, and
 **Q:** *Why does every request return 401 even after logging in?*\
 **A:** *You have inputted the token incorrectly, or it expired.*
 
-
-## Built with
-.NET 8\
-ASP.NET Core Web API\
-EF Core\
-PostGreSQL\
-JWT
 
