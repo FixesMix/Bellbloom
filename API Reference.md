@@ -8,7 +8,7 @@ Bellbloom is a school management system with built-in authentication. It is used
 
 1. To get started, navigate to the Login endpoint and select signup:
 
-![][image1]
+![Bellbloom screenshot](EX%20bellbloom/EX_1.png)
 
 2. A dropdown menu will appear showing you the request body and the required JSON fields. Valid role values:  
    1. professor  
@@ -16,12 +16,12 @@ Bellbloom is a school management system with built-in authentication. It is used
 3. Click “Try it out”, edit the body, then execute the command.  
 4. Navigate to the Login endpoint and input your email and password.
 
-![][image2]
+![Bellbloom screenshot](EX%20bellbloom/EX_2.png)
 
 5. You will see Response 200 along with an assigned JSON Web token.  
 6. Copy and paste your JSON Web token into the Authorize section at the top of the page.  
-   ![][image3]  
-   ![][image4]  
+![Bellbloom screenshot](EX%20bellbloom/EX_3.png)
+![Bellbloom screenshot](EX%20bellbloom/EX_4.png)
 7. Congratulations\! You are now logged in.
 
 JWT Tokens are valid for 60 minutes. After that, requests return 401 and you must login again to receive a new one. 
